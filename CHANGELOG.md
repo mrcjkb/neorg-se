@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.10](https://github.com/benlubas/neorg-se/compare/v1.1.9...v1.1.10) (2024-07-23)
+
+
+### Bug Fixes
+
+* **flake:** load libiconv-darwin only on darwin systems ([0a2d361](https://github.com/benlubas/neorg-se/commit/0a2d361afe624c1881ba2a65a755dc2e46394de9))
+
 ## [1.1.9](https://github.com/benlubas/neorg-se/compare/v1.1.8...v1.1.9) (2024-07-17)
 
 
